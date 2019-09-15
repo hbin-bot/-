@@ -1,0 +1,6 @@
+.chapter .btn-bottom .btn-info {
+    width: 100px;
+    border-radius: 4px ! important;
+    cursor: pointer;
+    color: white;
+}
